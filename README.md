@@ -17,4 +17,4 @@ quick3.5不再使用player, 换成Simulator. 启动的方式有三种:
 ## Bug反馈
 + https://coding.net/u/Floyda/p/RunQuickSimulator/topic/all
 + https://github.com/FloydaGitHub/RunQuickSimulator/issues
-+ Q群: 432333235
++ Q群: 516677276
